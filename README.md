@@ -14,5 +14,11 @@ __1 agustus 2021__
 Belajar kelas Memulai dengan gitdan github. (Progres 36%)
 
   * Belajar menggunakan git seperti membuat akun dan memebuat pengalaman dan banyak lagi.
+  
+  
+ **2 Agustus 2021**
+ Belajar kelas Memulai dengan gitdan github. (Progres 60%)
+ 
+ * Hari ini saya masih dengan melanjutkan cara menggunakan Git menggunakan Markdown 
 
   
